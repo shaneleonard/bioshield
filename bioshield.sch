@@ -14600,14 +14600,14 @@ NS Package M08A</description>
 <part name="IC3" library="adafruit" deviceset="QUAD_OPAMP" device="P"/>
 <part name="IC4" library="adafruit" deviceset="QUAD_OPAMP" device="P"/>
 <part name="IC5" library="adafruit" deviceset="QUAD_OPAMP" device="P"/>
-<part name="R3" library="resistor" deviceset="R-US_" device="0207/10" value="50K"/>
-<part name="R2" library="resistor" deviceset="R-US_" device="0207/10" value="50K"/>
+<part name="R3" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
+<part name="R2" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
 <part name="GND9" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
 <part name="D1" library="diode" deviceset="ZENER-DIODE" device="ZD-10" value="3V"/>
 <part name="D2" library="diode" deviceset="ZENER-DIODE" device="ZD-10" value="5V"/>
 <part name="D3" library="diode" deviceset="ZENER-DIODE" device="ZD-10" value="3V"/>
 <part name="D4" library="diode" deviceset="ZENER-DIODE" device="ZD-10" value="5V"/>
-<part name="R1" library="resistor" deviceset="R-US_" device="0207/10"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
 <part name="SUPPLY3" library="supply2" deviceset="+8V" device=""/>
 <part name="SUPPLY5" library="supply2" deviceset="-8V" device=""/>
 <part name="SUPPLY1" library="supply2" deviceset="+8V" device=""/>
@@ -14643,27 +14643,27 @@ NS Package M08A</description>
 <part name="IC6" library="adafruit" deviceset="QUAD_OPAMP" device="P"/>
 <part name="SUPPLY23" library="supply2" deviceset="+8V" device=""/>
 <part name="SUPPLY24" library="supply2" deviceset="-8V" device=""/>
-<part name="RA1" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA2" library="resistor" deviceset="R-US_" device="0207/10" value="50K"/>
+<part name="RA1" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA2" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
 <part name="CA1" library="SparkFun-Capacitors" deviceset="CAP" device="PTH1"/>
 <part name="IC7" library="adafruit" deviceset="QUAD_OPAMP" device="P"/>
-<part name="RA3" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA4" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA5" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA6" library="resistor" deviceset="R-US_" device="0207/10" value="50K"/>
+<part name="RA3" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA4" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
+<part name="RA5" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA6" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
 <part name="CA2" library="SparkFun-Capacitors" deviceset="CAP" device="PTH1"/>
-<part name="RA7" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA8" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA9" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA10" library="resistor" deviceset="R-US_" device="0207/10" value="50K"/>
+<part name="RA7" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA8" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
+<part name="RA9" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA10" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
 <part name="CA3" library="SparkFun-Capacitors" deviceset="CAP" device="PTH1"/>
-<part name="RA11" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA12" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA13" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA14" library="resistor" deviceset="R-US_" device="0207/10" value="50K"/>
+<part name="RA11" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA12" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
+<part name="RA13" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA14" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
 <part name="CA4" library="SparkFun-Capacitors" deviceset="CAP" device="PTH1"/>
-<part name="RA15" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
-<part name="RA16" library="resistor" deviceset="R-US_" device="0207/10" value="30K"/>
+<part name="RA15" library="resistor" deviceset="R-US_" device="0207/10" value="80K"/>
+<part name="RA16" library="resistor" deviceset="R-US_" device="0207/10" value="25K"/>
 <part name="SUPPLY10" library="supply2" deviceset="-8V" device=""/>
 <part name="SUPPLY11" library="supply2" deviceset="+8V" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
