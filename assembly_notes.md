@@ -19,7 +19,7 @@ RPxx for PPG, RAxx for the level shifter. These components are grouped together 
 5. The switches on the ICG might need series resistors on the clock input.
 
 6. Many optional elements were included for maximum flexibility. Pay attention to whether a particular resistor isn't needed.
-For instance, the optional gain resistors on the Sallen-Key filter in the ICG. Don't populate the capacitors in the level
+For instance, the optional gain resistors on the Sallen-Key filter in the ICG (one should be shorted, one should be open). Don't populate the capacitors in the level
 shifter unless you specifically want to add an extra pole.
 
 7. The silkscreen for the capacitors is pretty minimal, so be really careful to make sure to use the correct holes for the
